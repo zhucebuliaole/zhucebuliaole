@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 </p>
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhucebuliaole&show_icons=true&count_private=true&theme=radical" alt="spiderpig86" style="width: 60%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhucebuliaole&layout=compact&theme=radical" alt="spiderpig86" style="width: 35%; height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhucebuliaole&show_icons=true&count_private=true&theme=radical" alt="zhucebuliaole" style="width: 60%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhucebuliaole&layout=compact&theme=radical" alt="zhucebuliaole" style="width: 35%; height: 180px;">
 </div>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=rogue"> 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=zhucebuliaole&theme=rogue"> 
 
