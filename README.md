@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"alt="Torch" width="25" height="25"  />
 </p>
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhucebuliaole&show_icons=true&count_private=true&theme=radical" alt="zhucebuliaole" style="width: 60%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhucebuliaole&layout=compact&theme=radical" alt="zhucebuliaole" style="width: 35%; height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhucebuliaole&show_icons=true&count_private=true&theme=radical" alt="zhucebuliaole" style="max-width: 100%;height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhucebuliaole&layout=compact&theme=radical" alt="zhucebuliaole" style="max-width: 100%;; height: 180px;">
 </div>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zhucebuliaole&theme=rogue"> 
 
